@@ -4,10 +4,11 @@
 
 - User Can Increase and Decrease the product quantity.
 
-- Whenever user increases the individual product amount,the total amount also increases.
+- Whenever user can increases the individual product quantity,the total amount also increases.
 
 - Then Remove the product from cart.
 
 - Using Redux to Global state management.
 
 ***Please find the deployed url below***
+https://shoppingcart-react-redux-demo.netlify.app/

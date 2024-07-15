@@ -1,0 +1,27 @@
+.logo {
+    width: 40px; 
+    height: auto; 
+    margin-left: 20px;
+  }
+
+.navbarTitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mainSession{
+    margin-top: 90px;
+}
+
+/* @media only screen and (max-device-width: 480px) { */
+    /* styles for mobile browsers smaller than 480px; (iPhone) */
+    /* .productCount{
+        margin-top: 500px !important;
+    }
+
+ } */
+
+@media only screen and (max-width: 575px){
+    .productCount {
+        margin-top: 500px !important;
+    }
+}

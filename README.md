@@ -10,5 +10,5 @@
 
 - Using Redux to Global state management.
 
-***Please find the deployed url below***
+***Please find the deployed url below***<br/>
 https://shoppingcart-react-redux-demo.netlify.app/
